@@ -1,3 +1,3 @@
 # Demo
 
-Sme description.
+Some description.
